@@ -4,7 +4,7 @@ public class GFG_041 {
     {
         Scanner sc = new Scanner(System.in);
         int a, b, i, j, flag;
-        System.out.printf("Enter starting range: ");
+        System.out.printf("Enter start range: ");
         a = sc.nextInt(); // Take input
         System.out.printf("\nEnter end range: ");
         b = sc.nextInt(); // Take input
